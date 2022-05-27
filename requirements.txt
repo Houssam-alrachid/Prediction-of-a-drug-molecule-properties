@@ -1,0 +1,15 @@
+flask
+pip
+numpy
+pandas
+matplotlib
+scikit-learn
+click
+tensorflow
+keras
+gunicorn
+flasgger
+
+
+
+
